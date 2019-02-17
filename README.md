@@ -1,6 +1,8 @@
 # Result
 
-A Result implementation 
+This is an implementation of **Result** class
+
+Result is exactly what it sounds like - a result from an operation. It can be either **Success** or **Error**.
 
 ## Examples
 
